@@ -1,11 +1,11 @@
+
+
 ### Hi there 👋
 **Rogers777/Rogers777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 
 # Rogers777
-
 
 <strong>Olá!<br>
 Sou o Rogers, sou desenvolvedor fullstack jr e sou apaixonado por tecnologia!<br>
@@ -13,10 +13,11 @@ Atualmente estou trabalhando em um projeto em Python em branding protection.<br>
 Tenho experiencia em projetos de front-ends também, no momento estou me aprofundando um pouco mais no back.<br>
 A cada dia mais convicto que posso agregar muito na vida das pessoas e das corporações com meus conhecimentos e curiosidade sempre disposto a aprender mais.
 
+
  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogers777&show_icons=true&theme=radical)
-   
+   ## Tecnologias que eu uso
    <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" width="40" height="40" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Rafa-CSS"  align="center"width="40" height="40" style="max-width: 100%;"> </a>
