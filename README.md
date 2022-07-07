@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <strong>Olá!<br>
 Sou o Rogers, sou desenvolvedor fullstack jr e sou apaixonado por tecnologia!<br>
-Atualmente estou trabalhando em um projeto em Python em seles force.<br>
+Atualmente estou trabalhando em um projeto em Python em branding protecting.<br>
 Tenho experiencia em projetos de front-ends também, no momento estou me aprofundando um pouco mais no back.<br>
 A cada dia mais convicto que posso agregar muito na vida das pessoas e das corporações com meus conhecimentos e curiosidade sempre disposto a aprender mais.
 
