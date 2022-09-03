@@ -19,14 +19,14 @@ A cada dia mais convicto que posso agregar muito na vida das pessoas e das corpo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogers777&show_icons=true&theme=radical)
    ## Tecnologias que eu uso
    <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" width="40" height="40" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ka-VS" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+    <img align="center" alt="Rafa-Js" width="40" height="40" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Rafa-CSS"  align="center"width="40" height="40" style="max-width: 100%;"> </a>
   <img align="center" alt="Rafa-HTML"width="40" height="40" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" width="40" height="40" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python"width="40" height="40" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
-  
+   
      <div style="display-In-line">
-       <img align="center" alt="Ka-VS" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogers-calazans-triumpho-dev-sistemas-jr-1119a2105/)<a href = "mailto:produtosrogers@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
